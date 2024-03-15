@@ -1,0 +1,7 @@
+{
+	"devDependencies": {
+		"unocss": "^0.58.5",
+		"unocss-preset-weapp": "^0.58.5",
+		"unplugin-auto-import": "^0.17.5"
+	}
+}
